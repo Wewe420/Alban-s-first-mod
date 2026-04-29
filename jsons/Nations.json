@@ -33,7 +33,7 @@
 		"cities": ["Grand Marais", "Barraga", "Escanaba", "St. Ignance", "Iron Mountain", "Newberry", "Trout lake"]
 	}
 	{
-		"name": "AutumnWaffle",
+		"name": "Autumn Waffle",
 		"leaderName": "James Mason",
 		"adjective": ["Autumnwaffle"],
 		"startBias": ["Plains"],
@@ -45,7 +45,7 @@
 		"declaringWar": "you think you are whiter then our flag and nation!",
 		"attacked": "lets commence Waffle crusade",
 		"defeated": "a thousand years forgotten...",
-		"introduction": "i am james mason. Recpunceling you with the likes of martin luther pierce",
+		"introduction": "i am James Mason. Recpunceling you with the likes of Martin Luther Pierce",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
