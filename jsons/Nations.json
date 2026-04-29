@@ -34,18 +34,18 @@
 	}
 	{
 		"name": "AutumnWaffle",
-		"leaderName": "James Mason and Brandon Russel",
+		"leaderName": "James Mason",
 		"adjective": ["Autumnwaffle"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "There is no room in this world for cowardly people",
-		"startIntroPart2": "- Alexander the third of Homigas",
+		"startIntroPart2": "- Dolfy",
 		
-		"declaringWar": "You are Not welcome in our Lands...",
-		"attacked": "Oh my god, How?",
-		"defeated": "oh. i feel so sad because of this",
-		"introduction": "It is i, lambert the eternal Emperor.  Should we meet sometime?",
+		"declaringWar": "you think you are whiter then our flag and nation!",
+		"attacked": "lets commence Waffle crusade",
+		"defeated": "a thousand years forgotten...",
+		"introduction": "i am james mason. Recpunceling you with the likes of martin luther pierce",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -60,9 +60,9 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0, 0, 0],
-		"innerColor": [255, 0, 0],
-		"unique": "KINGDOM_OF_PEACE",
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 200, 0],
+		"unique": "TRIUMPH_OF",
 		"cities": ["Grand Marais", "Barraga", "Escanaba", "St. Ignance", "Iron Mountain", "Newberry", "Trout lake"]
 	}
 ]
